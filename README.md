@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Alexander Thomas
-- 👀 I’m interested in Software Development
+- 👀 I’m interested in Web Development and Game Development
 - 🌱 I’m currently expanding my knowledge in HTML, CSS, and JavaScript
 - 💞️ I’m looking to collaborate on future projects
 - 📫 How to reach me email: @alexroberts965@gmail.com
